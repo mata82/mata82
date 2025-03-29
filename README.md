@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Enrique  
-## 🚀 Senior Software Engineer | Architect | Tech Enthusiast  
+## 🚀 Technical Lead | Principal Software Engineer | Tech Enthusiast  
 
 I'm a **Senior Software Engineer** with over **19 years of experience** designing and developing enterprise applications, specializing in **Java (Jakarta EE, Spring Boot)** and modern cloud solutions. Currently, I’m part of the **IT team at Grupo Peñoles**, leading initiatives in **Oracle Cloud migration** and **SAP Ariba integration** with external ERPs.  
 
