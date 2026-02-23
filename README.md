@@ -1,6 +1,6 @@
 # Hi there, I'm Enrique 👋
 
-**Analytics & AI Manager @ Peñoles** | 18+ years building enterprise systems  
+**Analytics & AI Manager @ Peñoles** | 20+ years building enterprise systems  
 
 I lead data and AI strategy for one of Latin America's largest mining-metallurgical-chemical companies. My path: Java developer → cloud architect → AI/data strategist. I focus on turning messy industrial data into systems that actually work at scale.
 
